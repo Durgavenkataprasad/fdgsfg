@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("")
         
         print("vsd")
+        
+        print("git repository added")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
