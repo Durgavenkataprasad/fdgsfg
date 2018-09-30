@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         
         print("git repository added")
         
+        print("direct repository committed")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
