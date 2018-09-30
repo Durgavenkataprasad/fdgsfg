@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D95D6BD2160856900493F60 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D95D6BC2160856900493F60 /* NewViewController.swift */; };
 		9DE592F42160777C00926503 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE592F32160777C00926503 /* AppDelegate.swift */; };
 		9DE592F62160777C00926503 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE592F52160777C00926503 /* ViewController.swift */; };
 		9DE592F92160777C00926503 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DE592F72160777C00926503 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9D95D6BC2160856900493F60 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		9DE592F02160777C00926503 /* dsf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dsf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DE592F32160777C00926503 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DE592F52160777C00926503 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				9DE592F32160777C00926503 /* AppDelegate.swift */,
 				9DE592F52160777C00926503 /* ViewController.swift */,
+				9D95D6BC2160856900493F60 /* NewViewController.swift */,
 				9DE592F72160777C00926503 /* Main.storyboard */,
 				9DE592FA2160777D00926503 /* Assets.xcassets */,
 				9DE592FC2160777D00926503 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D95D6BD2160856900493F60 /* NewViewController.swift in Sources */,
 				9DE592F62160777C00926503 /* ViewController.swift in Sources */,
 				9DE592F42160777C00926503 /* AppDelegate.swift in Sources */,
 			);
